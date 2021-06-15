@@ -3,35 +3,7 @@
 * @version 1.16.2
 * @description "Edited and Based on the Neutron theme with more stuff added to make text readable and cute :P this is the first time i made something 
 out of someone's code Using CSS adjustments were found and now the whole thing seems to look good :D"
-* @author Harley#9868
-* Credits to the real owner of neutron theme!
-*/
-@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
-.header-2V-4Sw,
-.container-2ax-kl,
-.base-1x0h_U,
-.title-3sZWYQ,
-.header-2RyJ0Y,
-::-webkit-input-placeholder,
-body:not([class*=hljs]):not(code):not([class*=ace_]) {
-    font-size: 13px!important; 
-    font-family: UD Digi Kyokasho NK-R !important; 
-}
-:root{
---themeColor1: #c05584;
---backgroundImage: url('https://i.imgur.com/IMcluRm.png');
---backgroundBlur: 0px;
---backgroundOpacity: 0.5;
---homeImage: url('https://i.imgur.com/vWj44ta.png');
---text-muted: white;
---backgroundColor: #1b2d4a;
---channels-default: #c9d3fd;
-}
-/**
-* @name "Balloon-of-sadness"
-* @version 1.16.2
-* @description "Edited and Based on the Neutron theme with more stuff added to make text readable and cute :P this is the first time i made something 
-out of someone's code Using CSS adjustments were found and now the whole thing seems to look good :D"
+*Credits to the owner of Neurton and the free discord theme maker 
 * @author Harley#9868
 */
 @import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
@@ -51,7 +23,7 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
 --backgroundBlur: 0px;
 --backgroundOpacity: 0.5;
 --homeImage: url('https://i.imgur.com/vWj44ta.png');
---text-muted: #1b2d4a;
+--text-muted: #c9d3fd;
 --backgroundColor: #1b2d4a;
 --channels-default: #c9d3fd;
 }
@@ -61,11 +33,11 @@ body:not([class*=hljs]):not(code):not([class*=ace_]) {
     padding: 19px 5px 5px 10px;
     text-align: left;
     letter-spacing: .5px;
-    color: #1b2d4a;
+    color: #c9d3fd;
     border-bottom-width: 0px;
     border-style: none;
     border-image: none;
 }
 .membersGroup-v9BXpm span {
-    text-shadow: 0 0px 0px #000
+    text-shadow: 0 2px 0px #c05584
 }
